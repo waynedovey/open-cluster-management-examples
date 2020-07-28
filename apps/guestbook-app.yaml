@@ -6,7 +6,7 @@ metadata:
   namespace: guestbook-app
 spec:
   type: GitHub
-  pathname: https://github.com/mdelder/apps.git
+  pathname: https://github.com/waynedovey/apps.git
   # secretRef:
   #   name: github-credentials
 ---
